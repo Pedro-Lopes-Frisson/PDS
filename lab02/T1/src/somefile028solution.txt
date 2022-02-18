@@ -1,0 +1,19 @@
+PROGRAMMING          11 11,1  UPRIGHT  
+JAVA                 4  8,9   LEFT     
+WORDS                5  2,4   RIGHT    
+LINES                5  7,1   UP       
+CIVIL                5  7,2   UP       
+TEST                 4  6,11  UPLEFT   
+STACK                5  6,5   DOWNLEFT 
+
+..........G
+...WORDS.N.
+SL.....TI..
+EI.....MS..
+NV....M..E.
+II..SA....T
+LC.TR......
+..AG.AVAJ..
+.CO........
+KR.........
+P..........

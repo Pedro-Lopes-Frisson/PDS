@@ -1,0 +1,5 @@
+This program solves Letters Soups
+Word         Length   Position   Direction
+FRESCO       6        1,8        RIGHT
+FRUTA        5        7,1        DOWN
+PEIXE        5        1,2        DOWNRIGHT

@@ -1,0 +1,9 @@
+This program solves Letters Soups
+Word         Length   Position   Direction
+STACK        5        1,1        DOWN
+JAVA         4        9,1        RIGHT
+TEST         4        2,8        DOWN
+CIVIL        5        6,11       RIGHT
+WORDS        5        11,11      UPLEFT
+LINES        5        5,5        UP
+PROGRAMMING  11       12,6       LEFT

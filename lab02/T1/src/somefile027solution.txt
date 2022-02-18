@@ -1,0 +1,19 @@
+PROGRAMMING          11 1,11  DOWNLEFT 
+JAVA                 4  5,6   DOWNLEFT 
+WORDS                5  5,5   DOWNLEFT 
+LINES                5  2,7   DOWNLEFT 
+CIVIL                5  7,7   UPRIGHT  
+TEST                 4  3,2   RIGHT    
+STACK                5  2,5   LEFT     
+
+..........P
+KCATS.L..R.
+.TESTI..O.L
+....N..G.I.
+...EWJR.V..
+..SOAA.I...
+..RVM.C....
+.DAM.......
+S.I........
+.N.........
+G..........

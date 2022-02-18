@@ -1,0 +1,19 @@
+PROGRAMMING          11 1,1   RIGHT    
+JAVA                 4  5,6   DOWN     
+WORDS                5  6,11  UPLEFT   
+LINES                5  4,5   LEFT     
+CIVIL                5  7,2   DOWNRIGHT
+TEST                 4  11,10 UPLEFT   
+STACK                5  2,6   LEFT     
+
+PROGRAMMING
+.KCATSS....
+.......D...
+SENIL...R..
+.....J...O.
+.....A....W
+.C...V.....
+..I..AT....
+...V...S...
+....I...E..
+.....L...T.
